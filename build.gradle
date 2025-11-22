@@ -47,6 +47,13 @@ android {
         sourceCompatibility JavaVersion.VERSION_17
         targetCompatibility JavaVersion.VERSION_17
     }
+    
+    // Configure publishing for single variant
+    publishing {
+        singleVariant("release") {
+            withSourcesJar()
+        }
+    }
 }
 
 dependencies {
@@ -63,6 +70,7 @@ dependencies {
     androidTestImplementation "com.android.support.test.espresso:espresso-intents:3.3.0"
 }
 
+// Publishing configuration for JitPack
 afterEvaluate {
     publishing {
         publications {
