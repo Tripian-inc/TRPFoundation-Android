@@ -62,3 +62,17 @@ dependencies {
     androidTestImplementation "com.android.support.test.espresso:espresso-core:3.3.0"
     androidTestImplementation "com.android.support.test.espresso:espresso-intents:3.3.0"
 }
+
+afterEvaluate {
+    publishing {
+        publications {
+            release(MavenPublication) {
+                from components.release
+
+                groupId = project.group
+                artifactId = 'TRPFoundation-Android'
+                version = project.version
+            }
+        }
+    }
+}
