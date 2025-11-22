@@ -1,0 +1,37 @@
+<resources>
+
+<!--    <string name="OK">Bien</string>-->
+<!--    <string name="cancel">Annuler</string>-->
+<!--    <string name="GOT_IT">je l\'ai</string>-->
+<!--    <string name="YES">Oui</string>-->
+<!--    <string name="NO">non</string>-->
+<!--    <string name="SETTING">Réglage</string>-->
+<!--    <string name="SEND">ENVOYER</string>-->
+<!--    <string name="CONTINUE">Continuer</string>-->
+<!--    <string name="CLOSE">Fermer</string>-->
+<!--    <string name="UPDATE">Mettre à jour</string>-->
+<!--    <string name="DISMISS">Rejeter</string>-->
+<!--    <string name="HIDE">Cacher</string>-->
+<!--    <string name="RETRY">Réessayez</string>-->
+<!--    <string name="TRY_AGAIN">Réessayer</string>-->
+<!--    <string name="DETAILS">Détails</string>-->
+<!--    <string name="FAILED">Échoué</string>-->
+<!--    <string name="TYPE_SEARCH">Chercher</string>-->
+<!--    <string name="NO_IMAGE">Pas d\'image</string>-->
+<!--    <string name="DELETE">Effacer</string>-->
+<!--    <string name="DISCARD">Jeter</string>-->
+<!--    <string name="AGREE">Se mettre d\'accord</string>-->
+<!--    <string name="APPLY">Appliquer</string>-->
+<!--    <string name="DISAGREE">Être en désaccord</string>-->
+<!--    <string name="OPEN">Ouvrir</string>-->
+<!--    <string name="SAVE">Sauvegarder</string>-->
+<!--    <string name="NEXT">Suivante</string>-->
+<!--    <string name="BACK">Retour</string>-->
+<!--    <string name="SKIP">Sauter</string>-->
+<!--    <string name="delete">Effacer</string>-->
+
+<!--    <string name="first_name">Prénom</string>-->
+<!--    <string name="last_name">Nom de famille</string>-->
+<!--    <string name="are_you_sure_logout">Êtes-vous sûr de vouloir vous déconnecter?</string>-->
+
+</resources>

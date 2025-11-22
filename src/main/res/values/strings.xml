@@ -1,0 +1,37 @@
+<resources>
+
+<!--    <string name="OK">OK</string>-->
+<!--    <string name="cancel">CANCEL</string>-->
+<!--    <string name="GOT_IT">Got It</string>-->
+<!--    <string name="YES">Yes</string>-->
+<!--    <string name="NO">No</string>-->
+<!--    <string name="SETTING">Setting</string>-->
+<!--    <string name="SEND">Send</string>-->
+<!--    <string name="CONTINUE">Continue</string>-->
+<!--    <string name="CLOSE">Close</string>-->
+<!--    <string name="UPDATE">Update</string>-->
+<!--    <string name="DISMISS">Dismiss</string>-->
+<!--    <string name="HIDE">Hide</string>-->
+<!--    <string name="RETRY">Retry</string>-->
+<!--    <string name="TRY_AGAIN">Try Again</string>-->
+<!--    <string name="DETAILS">Details</string>-->
+<!--    <string name="FAILED">Failed</string>-->
+<!--    <string name="TYPE_SEARCH">Search</string>-->
+<!--    <string name="NO_IMAGE">No Image</string>-->
+<!--    <string name="DELETE">Delete</string>-->
+<!--    <string name="DISCARD">Discard</string>-->
+<!--    <string name="AGREE">Agree</string>-->
+<!--    <string name="APPLY">Apply</string>-->
+<!--    <string name="DISAGREE">Disagree</string>-->
+<!--    <string name="OPEN">Open</string>-->
+<!--    <string name="SAVE">Save</string>-->
+<!--    <string name="NEXT">Next</string>-->
+<!--    <string name="BACK">Back</string>-->
+<!--    <string name="SKIP">Skip</string>-->
+<!--    <string name="delete">Delete</string>-->
+
+<!--    <string name="first_name">First Name</string>-->
+<!--    <string name="last_name">Last Name</string>-->
+<!--    <string name="are_you_sure_logout">Are you sure want to log out?</string>-->
+
+</resources>
